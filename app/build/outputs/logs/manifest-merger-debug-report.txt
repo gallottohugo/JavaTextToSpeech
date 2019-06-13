@@ -1,0 +1,187 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Hugo\AndroidStudioProjects\TextToSpeech\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Hugo\AndroidStudioProjects\TextToSpeech\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Hugo\AndroidStudioProjects\TextToSpeech\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Hugo\AndroidStudioProjects\TextToSpeech\app\src\main\AndroidManifest.xml:2:1-34:12
+MERGED from [com.google.android.gms:play-services-vision:15.0.0] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.0.aar\2a31db6f8d244f40bcb262bded780d3e\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\4a1dc77de43ccc298d42af63781c1a28\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.0] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.0.aar\d7590376db0054ef8aefaa1a7a82af3f\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\4dd39bac4e63d02e8356bdc0d7dcf6af\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\c9447d7b5cf19ca15a1decc0f9df3146\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\b4628c7c24e434386a21ff5c842b21ea\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\9dafbe820052bf09a649b74a9354f305\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\a341dba994547ec039156c3f7f880c0e\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\3fe8ea8b9c0dce5a3bf0b98bbe63a273\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\5f13385b8d7a8ea9b10e13bd8daebfc1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\3441bdcf9da1d0df4085505b5129cd6b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\d70a241dc5c968fa9952e7b5d603f1a5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\a5660cc52112842d385b7cf9b8eedf2b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\7e0a79d23950e2d7819dd2ca1c3a402e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\fc2a75b1e19dd32d2c4650d4f35d3a7e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\18c24f472aa7767bfa176de7211822cf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\f36994b4db2d627ca956d495aa9d59c9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\d96e9bfcaa2740fd713396577dbd9139\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\48038ff82fd874ccc592521934ea9444\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\261cc6f4772d6ac203cba1dc7649aa38\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\8db4b94e7f817e0a6a73fdb55f303060\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\c756a479fad074ee24d33e0cdbb0304e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\10ddda2c3f3ef430d343acd5c0782e63\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\25250fab92afa7c194a49e15ef206b46\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Hugo\AndroidStudioProjects\TextToSpeech\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Hugo\AndroidStudioProjects\TextToSpeech\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Hugo\AndroidStudioProjects\TextToSpeech\app\src\main\AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from C:\Users\Hugo\AndroidStudioProjects\TextToSpeech\app\src\main\AndroidManifest.xml:3:5-62
+		INJECTED from C:\Users\Hugo\AndroidStudioProjects\TextToSpeech\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hugo\AndroidStudioProjects\TextToSpeech\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Hugo\AndroidStudioProjects\TextToSpeech\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Hugo\AndroidStudioProjects\TextToSpeech\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from C:\Users\Hugo\AndroidStudioProjects\TextToSpeech\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Hugo\AndroidStudioProjects\TextToSpeech\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Hugo\AndroidStudioProjects\TextToSpeech\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from C:\Users\Hugo\AndroidStudioProjects\TextToSpeech\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Hugo\AndroidStudioProjects\TextToSpeech\app\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from C:\Users\Hugo\AndroidStudioProjects\TextToSpeech\app\src\main\AndroidManifest.xml:4:5-35
+uses-feature#android.hardware.camera
+ADDED from C:\Users\Hugo\AndroidStudioProjects\TextToSpeech\app\src\main\AndroidManifest.xml:6:5-60
+	android:name
+		ADDED from C:\Users\Hugo\AndroidStudioProjects\TextToSpeech\app\src\main\AndroidManifest.xml:6:19-57
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Hugo\AndroidStudioProjects\TextToSpeech\app\src\main\AndroidManifest.xml:8:5-65
+	android:name
+		ADDED from C:\Users\Hugo\AndroidStudioProjects\TextToSpeech\app\src\main\AndroidManifest.xml:8:22-62
+application
+ADDED from C:\Users\Hugo\AndroidStudioProjects\TextToSpeech\app\src\main\AndroidManifest.xml:10:5-32:19
+MERGED from [com.google.android.gms:play-services-vision:15.0.0] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.0.aar\2a31db6f8d244f40bcb262bded780d3e\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:15.0.0] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.0.aar\2a31db6f8d244f40bcb262bded780d3e\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.0] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.0.aar\d7590376db0054ef8aefaa1a7a82af3f\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.0] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.0.aar\d7590376db0054ef8aefaa1a7a82af3f\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\4dd39bac4e63d02e8356bdc0d7dcf6af\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\4dd39bac4e63d02e8356bdc0d7dcf6af\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\b4628c7c24e434386a21ff5c842b21ea\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\b4628c7c24e434386a21ff5c842b21ea\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\9dafbe820052bf09a649b74a9354f305\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\9dafbe820052bf09a649b74a9354f305\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\a341dba994547ec039156c3f7f880c0e\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\a341dba994547ec039156c3f7f880c0e\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\3fe8ea8b9c0dce5a3bf0b98bbe63a273\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\3fe8ea8b9c0dce5a3bf0b98bbe63a273\AndroidManifest.xml:22:5-26:19
+	android:supportsRtl
+		ADDED from C:\Users\Hugo\AndroidStudioProjects\TextToSpeech\app\src\main\AndroidManifest.xml:16:9-37
+	android:label
+		ADDED from C:\Users\Hugo\AndroidStudioProjects\TextToSpeech\app\src\main\AndroidManifest.xml:15:9-37
+	android:hardwareAccelerated
+		ADDED from C:\Users\Hugo\AndroidStudioProjects\TextToSpeech\app\src\main\AndroidManifest.xml:13:9-43
+	android:fullBackupContent
+		ADDED from C:\Users\Hugo\AndroidStudioProjects\TextToSpeech\app\src\main\AndroidManifest.xml:12:9-42
+	android:icon
+		ADDED from C:\Users\Hugo\AndroidStudioProjects\TextToSpeech\app\src\main\AndroidManifest.xml:14:9-38
+	android:allowBackup
+		ADDED from C:\Users\Hugo\AndroidStudioProjects\TextToSpeech\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\Users\Hugo\AndroidStudioProjects\TextToSpeech\app\src\main\AndroidManifest.xml:17:9-47
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\Hugo\AndroidStudioProjects\TextToSpeech\app\src\main\AndroidManifest.xml:18:9-20:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\3fe8ea8b9c0dce5a3bf0b98bbe63a273\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\3fe8ea8b9c0dce5a3bf0b98bbe63a273\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from C:\Users\Hugo\AndroidStudioProjects\TextToSpeech\app\src\main\AndroidManifest.xml:20:13-66
+	android:name
+		ADDED from C:\Users\Hugo\AndroidStudioProjects\TextToSpeech\app\src\main\AndroidManifest.xml:19:13-58
+meta-data#com.google.android.gms.vision.DEPENDENCIES
+ADDED from C:\Users\Hugo\AndroidStudioProjects\TextToSpeech\app\src\main\AndroidManifest.xml:21:9-23:35
+	android:value
+		ADDED from C:\Users\Hugo\AndroidStudioProjects\TextToSpeech\app\src\main\AndroidManifest.xml:23:13-32
+	android:name
+		ADDED from C:\Users\Hugo\AndroidStudioProjects\TextToSpeech\app\src\main\AndroidManifest.xml:22:13-70
+activity#com.google.android.gms.samples.vision.ocrreader.OcrCaptureActivity
+ADDED from C:\Users\Hugo\AndroidStudioProjects\TextToSpeech\app\src\main\AndroidManifest.xml:25:9-31:20
+	android:label
+		ADDED from C:\Users\Hugo\AndroidStudioProjects\TextToSpeech\app\src\main\AndroidManifest.xml:26:13-38
+	android:name
+		ADDED from C:\Users\Hugo\AndroidStudioProjects\TextToSpeech\app\src\main\AndroidManifest.xml:25:19-100
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Hugo\AndroidStudioProjects\TextToSpeech\app\src\main\AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Hugo\AndroidStudioProjects\TextToSpeech\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from C:\Users\Hugo\AndroidStudioProjects\TextToSpeech\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Hugo\AndroidStudioProjects\TextToSpeech\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from C:\Users\Hugo\AndroidStudioProjects\TextToSpeech\app\src\main\AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from C:\Users\Hugo\AndroidStudioProjects\TextToSpeech\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Hugo\AndroidStudioProjects\TextToSpeech\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Hugo\AndroidStudioProjects\TextToSpeech\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.gms:play-services-vision:15.0.0] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.0.aar\2a31db6f8d244f40bcb262bded780d3e\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:15.0.0] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.0.aar\2a31db6f8d244f40bcb262bded780d3e\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\4a1dc77de43ccc298d42af63781c1a28\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\4a1dc77de43ccc298d42af63781c1a28\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.0] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.0.aar\d7590376db0054ef8aefaa1a7a82af3f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.0] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.0.aar\d7590376db0054ef8aefaa1a7a82af3f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\4dd39bac4e63d02e8356bdc0d7dcf6af\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\4dd39bac4e63d02e8356bdc0d7dcf6af\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\c9447d7b5cf19ca15a1decc0f9df3146\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\c9447d7b5cf19ca15a1decc0f9df3146\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\b4628c7c24e434386a21ff5c842b21ea\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\b4628c7c24e434386a21ff5c842b21ea\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\9dafbe820052bf09a649b74a9354f305\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\9dafbe820052bf09a649b74a9354f305\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\a341dba994547ec039156c3f7f880c0e\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\a341dba994547ec039156c3f7f880c0e\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\3fe8ea8b9c0dce5a3bf0b98bbe63a273\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\3fe8ea8b9c0dce5a3bf0b98bbe63a273\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\5f13385b8d7a8ea9b10e13bd8daebfc1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\5f13385b8d7a8ea9b10e13bd8daebfc1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\3441bdcf9da1d0df4085505b5129cd6b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\3441bdcf9da1d0df4085505b5129cd6b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\d70a241dc5c968fa9952e7b5d603f1a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\d70a241dc5c968fa9952e7b5d603f1a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\a5660cc52112842d385b7cf9b8eedf2b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\a5660cc52112842d385b7cf9b8eedf2b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\7e0a79d23950e2d7819dd2ca1c3a402e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\7e0a79d23950e2d7819dd2ca1c3a402e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\fc2a75b1e19dd32d2c4650d4f35d3a7e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\fc2a75b1e19dd32d2c4650d4f35d3a7e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\18c24f472aa7767bfa176de7211822cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\18c24f472aa7767bfa176de7211822cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\f36994b4db2d627ca956d495aa9d59c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\f36994b4db2d627ca956d495aa9d59c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\d96e9bfcaa2740fd713396577dbd9139\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\d96e9bfcaa2740fd713396577dbd9139\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\48038ff82fd874ccc592521934ea9444\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\48038ff82fd874ccc592521934ea9444\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\261cc6f4772d6ac203cba1dc7649aa38\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\261cc6f4772d6ac203cba1dc7649aa38\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\8db4b94e7f817e0a6a73fdb55f303060\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\8db4b94e7f817e0a6a73fdb55f303060\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\c756a479fad074ee24d33e0cdbb0304e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\c756a479fad074ee24d33e0cdbb0304e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\10ddda2c3f3ef430d343acd5c0782e63\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\10ddda2c3f3ef430d343acd5c0782e63\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\25250fab92afa7c194a49e15ef206b46\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\25250fab92afa7c194a49e15ef206b46\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Hugo\AndroidStudioProjects\TextToSpeech\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Hugo\AndroidStudioProjects\TextToSpeech\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Hugo\AndroidStudioProjects\TextToSpeech\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Hugo\AndroidStudioProjects\TextToSpeech\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hugo\AndroidStudioProjects\TextToSpeech\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Hugo\AndroidStudioProjects\TextToSpeech\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Hugo\AndroidStudioProjects\TextToSpeech\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Hugo\AndroidStudioProjects\TextToSpeech\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\9dafbe820052bf09a649b74a9354f305\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\9dafbe820052bf09a649b74a9354f305\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\9dafbe820052bf09a649b74a9354f305\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Hugo\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\9dafbe820052bf09a649b74a9354f305\AndroidManifest.xml:24:13-79
